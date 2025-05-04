@@ -1,3 +1,4 @@
+# pip install google-generativeai pyttsx3
 import tkinter as tk
 from tkinter import scrolledtext, Entry, Button
 import google.generativeai as genai
